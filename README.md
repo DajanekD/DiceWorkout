@@ -1,1 +1,2 @@
 # DiceWorkout
+All together 
